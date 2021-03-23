@@ -1,9 +1,9 @@
 # https://pythonru.com/primery/python-telegram-bot
 import telebot
 import config
-import pb
+# import pb
 import datetime
-import pytz
+# import pytz
 import json
 import traceback
 from config import api_key
